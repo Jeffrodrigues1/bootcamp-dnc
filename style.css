@@ -284,6 +284,21 @@ footer .linha2 a:first-child{
     .checkboxItens label{
         font-size: 17px;
     }
+
+    /* Footer*/
+
+    footer .linha1{
+        flex-direction: column;
+    }
+
+    footer .endereço{
+        margin-bottom: 20px;
+    }
+
+    footer nav{
+        height: 290px;
+    }
 }
+
 
 
